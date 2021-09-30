@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Mano alzada';
+    src: local ("ChristmasThemedDemo")url('../assets/Fonts/ChristmasThemedDemo.otf');
+}
+
+body {
+    background-color: #333;
+    color: aliceblue;
+    font-family: "Mano alzada";
+ 
+}
+
+.icon {
+    fill: red;
+}

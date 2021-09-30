@@ -1,0 +1,21 @@
+body {
+    background-color: mediumorchid;
+    /* background-color: hsla(60 100% 50% / 0.5); */
+    /* color: #0099ffab; */
+}
+
+.main {
+
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: lightcoral;
+    /* background-color: rgba(0, 0, 0, .1); */
+    /* background-color: rgb(0 0 0 / 0.3); */
+    box-shadow: 5px 5px 10px rgb(0 0 0 / 0.5);
+    box-shadow: 5px 5px 10px #0004;
+    box-shadow: 5px 5px 10px hsl(180 50% 50%);
+
+}
